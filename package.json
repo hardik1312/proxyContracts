@@ -13,9 +13,5 @@
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "@openzeppelin/hardhat-upgrades": "^1.27.0",
     "hardhat": "^2.14.1"
-  },
-  "dependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.2.3",
-    "ethers": "^6.4.2"
   }
 }
